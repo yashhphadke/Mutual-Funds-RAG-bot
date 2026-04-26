@@ -129,7 +129,7 @@ input:focus{
 .prompt_suggestion_row{
     width: 100%;
 }
-.bubble:hover {
+.prompt_suggestion_button:hover {
     color: #14D8B4;
     border-color: #14D8B4;
     transform: translateY(-2px);
