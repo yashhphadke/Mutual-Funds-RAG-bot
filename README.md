@@ -20,7 +20,7 @@ A RAG-based chatbot that answers factual questions about mutual fund schemes usi
 3. Set up the environment variables (e.g., API keys for LLM, vector database credentials) in a `.env` file.
 4. Run the data scraper/loader to ingest the specified URLs into the knowledge base.
 5. Start the application backend and frontend servers using `npm start`.
-6. Access the minimal UI at `http://localhost:3000`.
+6. Access the minimal UI at `https://mutual-funds-rag-bot.vercel.app/`.
 
 ## Known Limits
 - **Information Scope:** The assistant can only answer questions based on the explicitly provided public URLs (AMC and Groww scheme pages).
