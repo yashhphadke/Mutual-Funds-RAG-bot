@@ -94,8 +94,6 @@ CITATION RULES:
 - Every factual answer MUST include source citations from the context.
 - Use this format:
   [Source: <source URL or document name>]
-- If multiple sources are used:
-  [Sources: source1, source2]
 - Cite the exact source(s) used for each answer.
 - If context chunks include source metadata, prioritize those sources.
 
